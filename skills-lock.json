@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "azure-cloud-migrate": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-cloud-migrate/SKILL.md",
+      "computedHash": "ac96bc3d58eedb12fa264bbaec6c55dbceb7fd964f6d2529d0afaa97c1ce2ab8"
+    },
+    "azure-compliance": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-compliance/SKILL.md",
+      "computedHash": "118525ad0d3d9b3e27f5d8b6bf86129efe90d57c14874d1c6ca9695cda86ede4"
+    },
+    "azure-deploy": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-deploy/SKILL.md",
+      "computedHash": "d9030d755b4294c945123a099c5492abdf260e868f0e9aa0e0ec0e5b0ebe23f9"
+    },
+    "azure-diagnostics": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-diagnostics/SKILL.md",
+      "computedHash": "8bf4e13fe6b69e16f40a3cf28a5f81376a0c3aef030d55b7e31c289a2cec8301"
+    },
+    "azure-prepare": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-prepare/SKILL.md",
+      "computedHash": "226f3cc6136e9de37c0538b008f4a0e61630b8864ac1a1b1a84c0b714b2b283f"
+    },
+    "azure-rbac": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-rbac/SKILL.md",
+      "computedHash": "e4af230a641f4c6164b18d4c52a6a9afe8d04a561f52c3ca8e21cb8abe6f5b9b"
+    },
+    "azure-reliability": {
+      "source": "microsoft/azure-skills",
+      "sourceType": "github",
+      "skillPath": "skills/azure-reliability/SKILL.md",
+      "computedHash": "058f5c2ad3522250404193ed12b989005d474ca80a06d2ed413b02fdc368a957"
+    }
+  }
+}
